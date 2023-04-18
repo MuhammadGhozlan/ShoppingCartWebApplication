@@ -1,0 +1,3 @@
+﻿global using ShoppingCartWebApplicationUI.Data;
+global using ShoppingCartWebApplicationUI.Models;
+global using ShoppingCartWebApplicationUI.Repositories;
